@@ -48,7 +48,7 @@ The urban cities have the highest total fare all through this time range, follow
 
 ## 4 Summary
 
-The following are three business recommendations for each city typeB based on the summary data frame of ride data for each city type and total fare chart:
+The following are three business recommendations for each city type based on the summary data frame of ride data for each city type and total fare chart:
 
 •	Urban 
 
