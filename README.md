@@ -1,6 +1,6 @@
 # PyBer Analysis
 ## 1 Overview of The Project
-Ridesharing is becoming one of the most popular methods for travelling. Rideshare companies enables people to match up with independent drivers at short time amount by using application. People can login into the application, enter the location and it will automatically shows the nearest available drivers.
+Ridesharing is becoming one of the most popular methods for travelling. This type of service enables people to match up with independent drivers in a short amount of time by using application. User can login into the application, enter the location and it will automatically shows the nearest available drivers.
 
 PyBer is a ridesharing company that operates in urban, suburban and rural areas in U.S. This project will analyze PyBer ride data from January 2019 to April 2019 to help the company improve access to ride sharing services and determine affordability for underserved neighborhoods.
 
@@ -34,9 +34,9 @@ Software: Python 3.7.6 , Jupyter notebook, Pandas library, Matpotlib
 
 <sub>Figure 1 Summary DataFrame for Each City Type</sub>
 
-Figure 1 shows that the urban cities have the most amount for total rides and total drivers, which make the urban cities has the highest revenue compared to the other cities. On other hand, the average fare per ride and average fare per driver in urban cities is the lowest. This might indicate that the Pyber is a popular service in Urban cities as the total rides is the highest but the people in urban cities usually ride in shorter distance that makes the average fare is low. 
+Figure 1 shows that the urban cities have the most amount for total rides and total drivers, which showcases the urban cities generate the highest revenue compared to the other cities. On other hand, the average fare per ride and average fare per driver in urban cities is the lowest. This might indicate that the Pyber is a popular service in Urban cities as the total rides is the highest but the people in urban cities usually ride in shorter distance that makes the average fare is lower. 
 
-Suburban cities have the middle amount for all the field compared to rural and urban. Meanwhile, Rural cities had the lowest total rides, total rides and total fares. However, the average fare per ride and average fare per driver is the highest in the rural. This might indicate that PyBer is not that popular in rural cities, but people usually ride in longer distance compared to people in urban and suburban making the average fare is higher.
+Suburban cities have the middle amount of all the field compared to rural and urban. Meanwhile, Rural cities have the lowest total rides and total fares. However, the rural areas generate the highest average fare per ride and the average fare per driver. This might indicate that PyBer is not that popular in rural cities, but users usually ride in a longer distance compared to the ones in urban and suburban.
 
 A multiple chart as shown in Figure 2 created to help visualize the total fares data in each city type from January 2019 to April 2019. 
 
@@ -44,27 +44,27 @@ A multiple chart as shown in Figure 2 created to help visualize the total fares 
 <p align="center">
 <sub>Figure 2 Total Fare by City Type Chart</sub>
 </p>
-The urban cities have the highest total fare all through this time range, followed by suburban and rural. Total fare rose gradually for urban and suburban Cities from January and reached the peak in week 3 February. The graph is fluctuating for Urban cities from March to End of April while the total fares for suburban decreased until week 2 April and sharply increased until week 4 April.  The line graph for rural cities is quite stable overall with some increase in week 3 February and week 1 April.  In summary, urban, suburban, and rural cities have increased of total fares in week 3 February. 
+The urban cities have the highest total fare all through this time range, followed by suburban and rural. Total fare rose gradually for urban and suburban Cities from January and reached the peak in 3rd week of February. The graph is fluctuating for Urban cities from March to end of April while the total fares for suburban decreased until 2nd week of  April and sharply increased until 4th week of April.  Overall, the line graph for rural cities is quite stable  with some increment in 3rd week of  February and 1st week of  April.  In summary, urban, suburban, and rural cities generate  total fares increment in 3rd week of February. 
 
 ## 4 Summary
-Based on the summary data frame of ride data for each city type and total fare chart, below are three business recommendations for each city type:
+
+The following are three business recommendations for each city typeB based on the summary data frame of ride data for each city type and total fare chart:
 
 •	Urban 
 
-Pyber application is already quite popular in urban cities from what we can see in the total ride and total fares. To increase the revenue, Pyber can increase the fare on the peak time when the demand is high and nighttime when the public transport is not operating.  Another strategy is to add service like food delivery, pick up grocery or item delivery. 
+Pyber application is already quite popular in urban cities based on  the total ride and total fares. To increase the revenue, Pyber can raise the fare on the peak time when the demand is high and nighttime when the public transport is not operating.  Another strategy is to expand the service such as food delivery, grocery pick up or item delivery. 
 
 
 •	Suburban
 
-To increase revenue in suburban cities, PyBer can increase the number of driver when the demand is high in the specific weeks of months. From the graph, the demand is higher on week 3 February and end of April.  If its not possible, Pyber can increase the fares so the driver will get more money. 
+To increase revenue in suburban cities, PyBer can increase the number of driver when the demand is high in the specific weeks of the months. Based on the graph, the demand is higher on 3rd week of February and end of April.  If it is not possible, Pyber can increase the fares hence the driver will get more income. 
 
 •	Rural
 
-We need more detailed data to understand why there are not many rides in rural areas. Whether it because of the low demand, or the lack number of drivers. The cause can be figured out by analyzing the comparison data on the ride fulfillments rate.
+More detailed data is required to learn about the cause of ride shortages in rural area. Whether it is caused  by the low demand, or the lack of drivers. The cause can be figured out by analyzing the comparison data on the ride fulfillments rate.
 
-Based on the study, one of the biggest challenges with ridesharing in rural cities mainly because of the technological infrastructure. They depend on good cell service, while the rural broadband area usually unreliable making this can be one of the reasons why the demand is low. To overcome this, PyBer can make a call center for the rural areas so if there is no internet connection, people still can make a call to request driver. 
+Based on the study, one of the biggest challenges with ridesharing in rural cities mainly because of the technological infrastructure availability. They depend on good cell service, while the rural broadband area usually unreliable causing  this  be one of the possible reasons of the low demand. To overcome this, PyBer can make a call center for the rural areas so if there is no internet connection, users can still make a call to request driver. 
 
-If the number of driver is too small, Pyber need to dig more why there are not many drivers join. They can make the reward more attractive so there will be many drivers want to join Pyber.
-
+If the number of drivers is too small, Pyber needs to research more on the factors which prevent the drivers from joining. They can offer better reward to attract more drivers to join Pyber.
 
 
